@@ -117,5 +117,3 @@ Pokemon = R6Class(
 #' }
 #' @source 2u
 "pokemon_data"
-
-#I am adding a comment here to show a change in Github
